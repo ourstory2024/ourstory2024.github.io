@@ -1,275 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Strong-Piaostachio</title>
+  <title>壮壮-凌颖</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-25T15:53:06.178Z</updated>
+  <updated>2024-07-14T07:08:44.571Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>Strong-Piaostachio</name>
+    <name>壮壮-凌颖</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>一封信</title>
-    <link href="http://example.com/posts/35908.html"/>
-    <id>http://example.com/posts/35908.html</id>
-    <published>2023-11-25T13:16:00.000Z</published>
-    <updated>2023-11-25T15:53:06.178Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div class=&quot;ipage&quot;&gt;
-    &lt;div class=&quot;ititle&quot;&gt;一封信&lt;/div&gt;
-  &lt;div class=&quot;izhengwen&quot;&gt;
- </summary>
-        
-      
-    
-    
-    
-    <category term="书信" scheme="http://example.com/categories/%E4%B9%A6%E4%BF%A1/"/>
-    
-    
-    <category term="信" scheme="http://example.com/tags/%E4%BF%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>检讨书</title>
-    <link href="http://example.com/posts/29476.html"/>
-    <id>http://example.com/posts/29476.html</id>
-    <published>2021-02-14T14:52:00.000Z</published>
-    <updated>2021-02-15T13:59:48.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div class=&quot;ipage&quot;&gt;
-    &lt;div class=&quot;ititle&quot;&gt;检讨书&lt;/div&gt;
-  &lt;div class=&quot;izhengwen&quot;&gt;
-    &lt;p&gt;今天惹宝宝不高兴了，要命的是今天还是情人节。感到非常害怕。&lt;/p&gt;
-   </summary>
-        
-      
-    
-    
-    
-    <category term="书信" scheme="http://example.com/categories/%E4%B9%A6%E4%BF%A1/"/>
-    
-    
-    <category term="检讨" scheme="http://example.com/tags/%E6%A3%80%E8%AE%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020年强哥和飘仔的账单</title>
-    <link href="http://example.com/posts/29376.html"/>
-    <id>http://example.com/posts/29376.html</id>
-    <published>2021-01-11T05:04:00.000Z</published>
-    <updated>2021-02-15T03:36:45.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;b&gt;转账&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;强哥:</summary>
-        
-      
-    
-    
-    
-    <category term="杂记" scheme="http://example.com/categories/%E6%9D%82%E8%AE%B0/"/>
-    
-    
-    <category term="账单" scheme="http://example.com/tags/%E8%B4%A6%E5%8D%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>极其深刻的检讨书</title>
-    <link href="http://example.com/posts/29276.html"/>
-    <id>http://example.com/posts/29276.html</id>
-    <published>2020-11-06T14:52:00.000Z</published>
-    <updated>2021-02-14T15:28:44.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div class=&quot;ipage&quot;&gt;
-    &lt;div class=&quot;ititle&quot;&gt;检讨书&lt;/div&gt;
-  &lt;div class=&quot;izhengwen&quot;&gt;
-    &lt;p&gt;亲爱的宝贝:&lt;/p&gt;
-   </summary>
-        
-      
-    
-    
-    
-    <category term="书信" scheme="http://example.com/categories/%E4%B9%A6%E4%BF%A1/"/>
-    
-    
-    <category term="检讨" scheme="http://example.com/tags/%E6%A3%80%E8%AE%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>送宝宝一朵量子玫瑰</title>
-    <link href="http://example.com/posts/29385.html"/>
-    <id>http://example.com/posts/29385.html</id>
-    <published>2020-10-19T14:53:10.000Z</published>
-    <updated>2020-10-19T15:20:08.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;思来想去送宝贝什么礼物好,看到这个量子玫瑰时觉得很好看,看起来很精致,又有巧妙的心思,希望宝贝会喜欢&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这是一种除去了所有甜分的香，有一种令人舒适的微苦，令我联想到暴雨后初晴陽光中的青菜地，想到了万里晴空中最后一抹淡云，想到了幽深空谷中</summary>
-        
-      
-    
-    
-    
-    <category term="礼物" scheme="http://example.com/categories/%E7%A4%BC%E7%89%A9/"/>
-    
-    
-    <category term="量子玫瑰" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E7%8E%AB%E7%91%B0/"/>
-    
-  </entry>
-  
-  <entry>
     <title>测试日志</title>
-    <link href="http://example.com/posts/10959.html"/>
-    <id>http://example.com/posts/10959.html</id>
-    <published>2020-10-18T01:25:00.000Z</published>
-    <updated>2020-10-21T14:49:37.000Z</updated>
+    <link href="http://example.com/posts/48891.html"/>
+    <id>http://example.com/posts/48891.html</id>
+    <published>2024-07-14T01:25:00.000Z</published>
+    <updated>2024-07-14T07:08:44.571Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;vlog&quot;&gt;&lt;a href=&quot;#vlog&quot; class=&quot;headerlink&quot; title=&quot;vlog&quot;&gt;&lt;/a&gt;vlog&lt;/h2&gt;&lt;p&gt;要给宝贝拍vlog&lt;br&gt;先占个日志测试下功能，哈哈哈哈哈&lt;/p&gt;
-&lt;h3 id=&quot;拍摄对象&quot;&gt;&lt;a</summary>
+    <summary type="html">&lt;h1 id=&quot;一片测试日志&quot;&gt;&lt;a href=&quot;#一片测试日志&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
-    <category term="视频" scheme="http://example.com/categories/%E8%A7%86%E9%A2%91/"/>
+    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-    <category term="vlog" scheme="http://example.com/tags/vlog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>给宝贝的一封信</title>
-    <link href="http://example.com/posts/10919.html"/>
-    <id>http://example.com/posts/10919.html</id>
-    <published>2020-08-25T01:25:00.000Z</published>
-    <updated>2020-10-24T05:57:18.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div class=&quot;ipage&quot;&gt;
-    &lt;div class=&quot;ititle&quot;&gt;宝贝情人节快乐&lt;/div&gt;
-  &lt;div class=&quot;izhengwen&quot;&gt;
-    &lt;p&gt;亲爱的宝贝:
-    &lt;/p&gt;
-   </summary>
-        
-      
-    
-    
-    
-    <category term="书信" scheme="http://example.com/categories/%E4%B9%A6%E4%BF%A1/"/>
-    
-    
-    <category term="书信" scheme="http://example.com/tags/%E4%B9%A6%E4%BF%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>北极熊先生的烦恼</title>
-    <link href="http://example.com/posts/29266.html"/>
-    <id>http://example.com/posts/29266.html</id>
-    <published>2020-08-21T01:25:00.000Z</published>
-    <updated>2020-10-19T14:34:16.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;北极熊先生最近迷上了角色扮演（COSPLAY）。&lt;/p&gt;
-&lt;p&gt;倒不全是出自兴趣，而是因为他和企鹅小姐恋爱谈久了，感觉两人之间的恋情似乎有那么一点点……没味道？&lt;/p&gt;
-&lt;p&gt;每天早上的早安吻，每天晚餐时的小鱼干，还有半夜一起守在冰原上看的极光，本来它们都是很好很好的，可是</summary>
-        
-      
-    
-    
-    
-    <category term="故事" scheme="http://example.com/categories/%E6%95%85%E4%BA%8B/"/>
-    
-    
-    <category term="北极熊先生" scheme="http://example.com/tags/%E5%8C%97%E6%9E%81%E7%86%8A%E5%85%88%E7%94%9F/"/>
-    
-    <category term="企鹅小姐" scheme="http://example.com/tags/%E4%BC%81%E9%B9%85%E5%B0%8F%E5%A7%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>想去南极的北极熊</title>
-    <link href="http://example.com/posts/29274.html"/>
-    <id>http://example.com/posts/29274.html</id>
-    <published>2020-08-21T01:25:00.000Z</published>
-    <updated>2020-10-19T14:32:14.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;作为一只超级宅熊，北极熊先生从来没出过远门。&lt;/p&gt;
-&lt;p&gt;直到它在网上认识了家住南极的企鹅小姐。&lt;/p&gt;
-&lt;p&gt;虽然身处星球两端，但这距离不妨碍它俩在网上聊得很欢。&lt;/p&gt;
-&lt;p&gt;光是同样生活在冰天雪地的环境里，就能给两只动物很多的共同语言。&lt;/p&gt;
-&lt;p&gt;有时它们还会玩</summary>
-        
-      
-    
-    
-    
-    <category term="故事" scheme="http://example.com/categories/%E6%95%85%E4%BA%8B/"/>
-    
-    
-    <category term="北极熊先生" scheme="http://example.com/tags/%E5%8C%97%E6%9E%81%E7%86%8A%E5%85%88%E7%94%9F/"/>
-    
-    <category term="企鹅小姐" scheme="http://example.com/tags/%E4%BC%81%E9%B9%85%E5%B0%8F%E5%A7%90/"/>
+    <category term="日志" scheme="http://example.com/tags/%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
